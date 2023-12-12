@@ -4,7 +4,7 @@ import {
     getLocation,
     inputCheck,
     windDirection
-} from './function.js';
+} from '../function.js';
 
 // global variables
 let latitude, longitude, zip, cityname;

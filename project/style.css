@@ -1,7 +1,9 @@
 body {
-    background: #5CDB95;
+    background: salmon;
     color: #EDF5E1;
-    font-family: 'Rowdies', cursive;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    border-radius: 20px;
   }
   
   button {
@@ -12,15 +14,15 @@ body {
     padding: 10px 20px;
   
     }
-  
+
   .container {
-    background: #05386B;
+    background: goldenrod;
     max-width: 450px;
     width: 100%;
     display: table;
     margin: 0 auto;
     margin-top: 40px;
-    border: 1px solid salmon;
+    border: 1px solid blue;
   }
   
   input {
@@ -37,7 +39,7 @@ body {
     text-align: center;
     margin-bottom: 0px;
     line-height: 1;
-    font-size: 85px;
+    font-size: 50px;
   }
   
   ul {
@@ -71,10 +73,11 @@ body {
   
   .button {
     text-align: center;
+    border-radius: 75px;
   }
   
   .checked {
-    color: green;
+    color: whitesmoke;
   }
   
   .checked:before {
@@ -92,3 +95,4 @@ body {
     color: red;
     text-align: right;
   }
+
