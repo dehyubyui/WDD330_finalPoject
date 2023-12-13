@@ -1,0 +1,44 @@
+body {
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 1rem;
+    color: black;
+    box-shadow: 10px 5px 10px 5px blue;
+}
+
+.trello {
+    background-color: whitesmoke;
+    padding-top: 5px;
+    border-radius: 40px;
+    padding-bottom: 5pxs;
+}
+
+div a {
+    display: block;
+    color: blue;
+}
+
+div li {
+    margin: 1.25rem auto;
+    max-width: 200px;
+    text-align: justify;
+}
+
+.sleepOutside {
+    background-color: whitesmoke;
+    border-radius: 40px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.learn {
+    background-color: whitesmoke;
+    margin: 10px;
+    border-radius: 40px;
+    margin-bottom: 10px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
